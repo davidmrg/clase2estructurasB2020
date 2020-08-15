@@ -1,2 +1,3 @@
-# clase2estructurasB2020
-Codigo fuente clase 2
+# Clase 2: estructuras de datos
+
+Codigo fuente clase 2: Estructuras de control
